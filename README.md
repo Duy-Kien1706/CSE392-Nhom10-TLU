@@ -1,12 +1,12 @@
-# CSE392-Nhom10-TLU
-Thực hành thiết lập dự án trên GitHub và quản lý công việc :
-1.: Phân tích, thiết kế giao diện người dùng 
-2.Vũ Lê Hoàng: 
-3.:
-4.Nguyễn Gia Tăng: 
+
 
 
 # CSE392 – Nhóm 10 | Hệ thống quản lý giao hàng
+Tên thành viên :
+1.Nguyễn Duy Kiên
+2.Vũ Lê Hoàng 
+3.Hoàng Lã Gia Huy
+4.Nguyễn Gia Tăng
 
 > **Tài liệu giới thiệu dự án, phân công 4 thành viên và theo dõi công việc.**  
 > Repository: https://github.com/Duy-Kien1706/CSE392-Nhom10-TLU
@@ -152,4 +152,4 @@ Kéo các Issue giữa các cột theo tình trạng **thực tế**, không đ�
 
 ---
 
-*README dành cho bài thực hành quản lý dự án trên GitHub. Thông tin phân công, tiến độ và sản phẩm sẽ được cập nhật theo thực tế của nhóm.*
+
